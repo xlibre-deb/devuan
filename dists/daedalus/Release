@@ -1,0 +1,57 @@
+Codename: daedalus
+Suite: stable
+Architectures: source amd64
+Components: main
+UDebComponents: main
+Origin: XLibre
+Label: xlibre-deb
+Description: XLibre deb repo
+Date: Sat, 23 Aug 2025 02:48:29 +0000
+MD5Sum:
+ 47b89b1ca26120e540b214819f4c3c12              199 Release
+ d06471201658e175d20752d0b76f0da3            16571 main/Contents-all
+ 08fea9dd86bee6acda1089100d839696             1836 main/Contents-all.xz
+ 916668f6a3688ea6e341b343b0a6b5a8            49555 main/Contents-amd64
+ 5c6ff6155deced62f9ddadc15a17ce7e             6052 main/Contents-amd64.xz
+ 5e1c0d068872ddc0e19337ad582df07b            27276 main/binary-all/Packages
+ f4214f2b768d1a6b5190ebfd9b24860e             7340 main/binary-all/Packages.xz
+ f7416d3fce457405ae2b78fcd414c25c            89319 main/binary-amd64/Packages
+ efc257b463c36d22ecf994ea1118aeb4            23452 main/binary-amd64/Packages.xz
+ f7d7859ddee74ffa6f285a2f055c69b4            48339 main/source/Sources
+ 11933efc8597a58cac9e02e0c71fd872            12688 main/source/Sources.xz
+SHA1:
+ dacc6b2e5baaa4e2f18ee98e9d849f2943f2b42b              199 Release
+ 75e7c0a158416ce4baa5534e4dd654fc5bc6fb54            16571 main/Contents-all
+ 3089eac52665dc68b6e0a0f10d1fa3560ec4c946             1836 main/Contents-all.xz
+ 42a7a8e737b6914806c4b74b8724acc53c515e8c            49555 main/Contents-amd64
+ b28a0f0b27411afa1c409c943063f2a3eb46bc42             6052 main/Contents-amd64.xz
+ 1b7d18ae34c92f37b90eda4e1ca854f5c6d7c747            27276 main/binary-all/Packages
+ 1d01bb041a45b0eb684f1b6dc36832975a8706be             7340 main/binary-all/Packages.xz
+ 9bde5adc421840b1113ddfc10f0b30dfb7741a3e            89319 main/binary-amd64/Packages
+ 99af1262c658820829d3fc54441a8a97f9ea9db9            23452 main/binary-amd64/Packages.xz
+ 716883c87cf88744a574a01a68c9e9e1743334f6            48339 main/source/Sources
+ ba4e3eee2ca4a3a42ded1d39a309de02e43eee48            12688 main/source/Sources.xz
+SHA256:
+ fd4bbdbf476e63d5e8f270f28678c9f898808444720d5a8a8a31e22c021542ac              199 Release
+ 4d1fd886188e783e596c7546f56779a34257ec07be26618b1faae9e87e9e63b4            16571 main/Contents-all
+ 156f470fbfd5c39b57b48928a2d2d56559e29f8ec0df53aa2859c2e6566e1bc5             1836 main/Contents-all.xz
+ 7e58fc50fb89dd9eb9f7b8820d497d240023f539fc39b7c519a00a99a3720d94            49555 main/Contents-amd64
+ 3eb2b0d5c2b977afba3e6a5357c803018ed03f6aec37318bee88c80fcb95dd95             6052 main/Contents-amd64.xz
+ efca700b8cef0489ab7652eccecde70ffcda12d2023c4e61d22059efed50b03a            27276 main/binary-all/Packages
+ fc14691bfc4655b804338954691f505bc902eb695d778f40d4e6862766f03a91             7340 main/binary-all/Packages.xz
+ ec565178c624ae1bc021e38d0ecb72cf72b47b0517b612c21731a27abb8a81be            89319 main/binary-amd64/Packages
+ 4f83c2a5d3595101aac7aa65b37f27fb569e6060b216bef279f8875db8045f4d            23452 main/binary-amd64/Packages.xz
+ 47a75d0f4690656454a008abe5152f2e7bd247bc2a22bfc23f0e76bda8fc1a0b            48339 main/source/Sources
+ b2585c8fadecc9ff7675e3264ada00309da2d74bc014695b36ac01e6b15b9cf9            12688 main/source/Sources.xz
+SHA512:
+ 07211fe2fd49479948cc6b3af9e7b150f3ef47c8ba88088d606f96d0e0d7221e36be48e9bddbf77897b61774cb7986c5a6bef31573e1cee74f417187271d0749              199 Release
+ 571da0ea144054b42f63c354167a14eeb0d9fa6b667899ea50a3686105221d31090123f6d06912799be6d45b0659bf9a3d2fd9fa85d608a9a00ec2d77e37a652            16571 main/Contents-all
+ 4e065e77211aee2f7d5f1ba922f7a0869d7f4b859e25c23fc5234446ea83964802fd6c2906693144de5c524254f729d5e08de8be70feae6588264e78e6fb28e2             1836 main/Contents-all.xz
+ b29210faeecfd7ed0bbc6fc6d24de202b7d85d7c6c7af51e39b36e675d948c2cd7a20706e71118e6ee9b0d4f25c1655e6a7f510b27aa1089463f91c5f2c07ba7            49555 main/Contents-amd64
+ b3e2224b254cf980d2b3b0f7b12ba494534626898fc1ac87f320a6d39b9c32588c42dccd0c12d9b2e315369be104b27548222eeb5da6be95aa1716a7e2acf4aa             6052 main/Contents-amd64.xz
+ acfce30d2428650d5128839655f5ab41e822f729c7102bc064c157af7638faa73883a26403a2fae595e742268ee54bab51e6c4b8b030173f3f76eaf3daf80e59            27276 main/binary-all/Packages
+ 37cd255205bb48be2a19b2e47b7c5ef66a4542afbf3728c2b1d60522581e24e5a615bfd72f4894b690a399ddb0e81d32e43b9ad4d3c49271a146fbe287bef69f             7340 main/binary-all/Packages.xz
+ c691421fc1b16117627754ee5b8e097346c1f479b3f6fc3c68c330f352d259fe136b0dd355bff0be5442bac414c266e8dec2f1ba5afb7aa01c3753c9e23f780e            89319 main/binary-amd64/Packages
+ eb05400b4b95c0524a9cbef13e3f44a4a9757144ef60da048c5109693f7351e2a070cf319ead7e6c2017315205a8b4c13cbe774f564cc0b0b2b54283bb808e39            23452 main/binary-amd64/Packages.xz
+ e862b7a50362fd3668792f6e5953f902d18e3811eaa6b3e92916e265dc3d4b218d2a2da1935051cf4fa0fe44959b62782c470b70e5cac3d0a88f9c7504173505            48339 main/source/Sources
+ dc909af4ce48feff9e0332ee5385d05a570fd1bcdafa22e826eedac56ca4756f6205fefe037d5f368b521dce20998819861144106fc616ae4380a4d58a2fcbe6            12688 main/source/Sources.xz
