@@ -15,9 +15,9 @@ etc/X11/rgb.txt						    xlibre-x11-common
 etc/X11/spiceqxl.xorg.conf				    xserver-xlibre-xspice
 etc/init.d/x11-common					    xlibre-x11-common
 lib/systemd/system/wacom-inputattach@.service		    xserver-xlibre-input-wacom
+lib/udev/rules.d/64-xorg-xkb.rules			    xserver-xlibre-core
 lib/udev/rules.d/69-wacom.rules				    xserver-xlibre-input-wacom
 lib/udev/rules.d/69-xorg-vmmouse.rules			    xserver-xlibre-input-vmmouse
-rules.d/64-xorg-xkb.rules				    xserver-xlibre-core
 usr/bin/X						    xserver-xlibre-core
 usr/bin/X11						    xlibre-x11-common
 usr/bin/Xephyr						    xserver-xlibre-xephyr
