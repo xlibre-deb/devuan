@@ -15,7 +15,6 @@ etc/X11/rgb.txt						    xlibre-x11-common
 etc/X11/spiceqxl.xorg.conf				    xserver-xlibre-xspice
 etc/init.d/x11-common					    xlibre-x11-common
 lib/udev/rules.d/69-xorg-vmmouse.rules			    xserver-xlibre-input-vmmouse
-rules.d/64-xorg-xkb.rules				    xserver-xlibre-core
 usr/bin/X						    xserver-xlibre-core
 usr/bin/X11						    xlibre-x11-common
 usr/bin/Xephyr						    xserver-xlibre-xephyr
@@ -361,6 +360,7 @@ usr/lib/debug/.dwz/x86_64-linux-gnu/xserver-xlibre-video-vmware.debug xserver-xl
 usr/lib/pkgconfig/xorg-evdev.pc				    xserver-xlibre-input-evdev-dev
 usr/lib/pkgconfig/xorg-synaptics.pc			    xserver-xlibre-input-synaptics-dev
 usr/lib/systemd/system/wacom-inputattach@.service	    xserver-xlibre-input-wacom
+usr/lib/udev/rules.d/64-xorg-xkb.rules			    xserver-xlibre-core
 usr/lib/udev/rules.d/69-wacom.rules			    xserver-xlibre-input-wacom
 usr/lib/x86_64-linux-gnu/libIntelXvMC.so.1		    xserver-xlibre-video-intel
 usr/lib/x86_64-linux-gnu/libIntelXvMC.so.1.0.0		    xserver-xlibre-video-intel
